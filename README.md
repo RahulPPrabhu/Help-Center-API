@@ -12,6 +12,7 @@
    - cd `frontend`
    - Run `npm install`
    - Run `npm start`
+   - To check the POST method kindly click on the Submit a Request button
 
 3. **Backend:**
    - cd `backend`
