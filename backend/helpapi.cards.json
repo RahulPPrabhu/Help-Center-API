@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "66c06ec69e8215cc654c0d0d"
+  },
+  "title": "Branches",
+  "description": "Abstarct Branches lets you manage, version, and document your designs in one place.",
+  "link": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c06ef19e8215cc654c0d0f"
+  },
+  "title": "Manage your account",
+  "description": "Configure your account settings, such as your email, profile details, and password.",
+  "link": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c06f3a9e8215cc654c0d11"
+  },
+  "title": "Manage organizations, teams, and projects",
+  "description": "Use Abstarct organizations, teams, and projects to organize your people and your work.",
+  "link": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c06f639e8215cc654c0d13"
+  },
+  "title": "Manage billing",
+  "description": "Change subscriptions and payment details.",
+  "link": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c06f869e8215cc654c0d15"
+  },
+  "title": "Authenticate to Abstarct",
+  "description": "Set up and configure SS), SCIM, and Just-in-Time provisioning.",
+  "link": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c06f9c9e8215cc654c0d17"
+  },
+  "title": "Abstract support",
+  "description": "Get in touch with a human.",
+  "link": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c0c8e4df273764901c2c01"
+  },
+  "title": "Sample Title 1",
+  "description": "Sample Description 1",
+  "link": "",
+  "__v": 0
+}]
