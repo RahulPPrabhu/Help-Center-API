@@ -5,7 +5,7 @@
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/RahulPPrabhu/Help-Center-API.git
-   cd help-center-api
+   cd Help-Center-API
    ```
 
 2. **Frontend:**
